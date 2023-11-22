@@ -1,0 +1,18 @@
+name: predictive_back_gesture_flutter
+description: "Test of Android predictive back gesture in Flutter."
+publish_to: 'none'
+environment:
+  sdk: '>=3.3.0-91.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
